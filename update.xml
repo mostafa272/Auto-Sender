@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>Auto Sender</name>
+		<description>It sends articles to Joomla users via e-mails automatically</description>
+		<element>autosender</element>
+		<type>plugin</type>
+		<version>1.0</version>
+		<infourl title="Auto Sender">https://github.com/mostafa272/Auto-Sender</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/Auto-Sender</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[234567]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
