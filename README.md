@@ -7,5 +7,5 @@ https://github.com/mostafa272/Auto-Sender/blob/master/plg_autosender_j3.0.zip
 https://github.com/mostafa272/Auto-Sender/blob/master/plg_autosender_j2.5.zip                 
                          
 ## Donate:                   
-Buy a coffee for us:                  
+Buy a coffee for me:                  
 https://ko-fi.com/mostafashahiri
